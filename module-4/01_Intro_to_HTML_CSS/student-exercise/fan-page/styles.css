@@ -1,0 +1,93 @@
+h1 {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 9vw;
+    font-weight: bold;
+    letter-spacing: -4px;
+    text-align: center;
+    color: white;
+    margin: auto;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Helvetica Neue', sans-serif;
+    margin: auto;
+    text-shadow: -1px 0 #111, 0 1px #111;
+}
+
+p {
+    text-align: center;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 1.4vw;
+    text-shadow: -1px 0 #111, 0 1px #111;
+}
+
+footer {
+    font-family: 'Helvetica Neue', sans-serif;
+    text-align: center;
+    color: wheat;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    font-size: 1.4vw;
+    text-shadow: -1px 0 #111, 0 1px #111;
+}
+
+body {
+    background-color: black;
+    color: wheat;
+    font-weight: bold;
+    font-size: 1.4vw;
+    text-align: center;
+    text-shadow: -1px 0 #111, 0 1px #111;
+    display: block;
+    background-size: 120%;
+    background-repeat: no-repeat;
+    /*background-position: center;*/
+    background-image: url("../img/1571900633_maxresdefault.jpg");
+    background-color: black;
+}
+
+a {
+    color: wheat;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 1.3vw;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+nav {
+    font-family: 'Helvetica Neue', sans-serif;
+    text-align: center;
+    color: wheat;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    font-size: 1.4vw;
+    text-shadow: -1px 0 #111, 0 1px #111;
+}
+
+img {
+    border: #f5deb3;
+    border-radius: 190px;
+    padding: 15px;
+}
+
+table {
+    padding: 10px;
+    border: 6px solid #EFCA86;
+    border-spacing: 5px;
+    align-content: center;
+    color: wheat;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+tr {
+    align-self: center;
+}
+
+p1 {
+    font-style: italic;
+    font-size: smaller;
+}
+
+h4 {
+    text-decoration: underline;
+}

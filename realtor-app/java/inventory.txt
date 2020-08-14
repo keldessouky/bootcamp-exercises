@@ -1,0 +1,3 @@
+Type (S)/(M)/(R) | MLS Number | NumberOfBedrooms | GarageSize | NumberOfBathrooms | Total Square Feet | Year Built | Asking Price | Street Address | City | State |Zip
+S|12332|4|2|3|1700|2014|199870|123 Oak Street|Westerville|OH|43081
+S|33732|3|2|1|1400|2011|145950|456 Plumb Rd|Delaware|OH|43054
